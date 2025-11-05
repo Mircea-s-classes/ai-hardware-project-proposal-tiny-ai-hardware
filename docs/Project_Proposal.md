@@ -71,4 +71,5 @@ LED / buzzer for output demonstration
 
 ## 10. References
 OpenMV H7 documentation: https://docs.openmv.io/
+
 Relevant TinyML embedded vision research publications
