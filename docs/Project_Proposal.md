@@ -8,7 +8,7 @@
 
 ---
 
-# AI Hardware Project Proposal Template
+# AI Hardware Project Proposal
 
 ## 1. Project Title
 Tiny AI Hardware
