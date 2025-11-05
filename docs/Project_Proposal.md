@@ -47,14 +47,12 @@ The work will focus on balancing model complexity with the processing capabiliti
 working demo, GitHub repository, documentation, presentation slides, and final report.
 
 ## 7. Team Responsibilities
-List each member’s main role.
 
 | Name | Role | Responsibilities |
 |------|------|------------------|
 | Yi Deng | Full contributor | documentation, Setup, Model training, inference, Testing, benchmarking |
 
 ## 8. Timeline and Milestones
-Provide expected milestones:
 
 | Week | Milestone | Deliverable |
 |------|------------|-------------|
@@ -65,8 +63,11 @@ Provide expected milestones:
 
 ## 9. Resources Required
 OpenMV H7 development board
+
 Edge Impulse training platform
+
 Standard computer for model development
+
 LED / buzzer for output demonstration
 
 ## 10. References
