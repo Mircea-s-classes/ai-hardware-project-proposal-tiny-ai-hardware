@@ -29,7 +29,7 @@ In this project, we successfully designed and implemented a standalone hand gest
 1. Download the OpenMV IDE, trained.tflite
 2. Run the ei_image_classification.py in OpenMV IDE to capture and classify your hand gesture
 
-Bibliography
+**Bibliography**<br>
 [1] Asmara, R.A. et al. 2024. An Experimental Study on Deep Learning Technique Implemented on Low Specification OpenMV Cam H7 Device. JOIV : International Journal on Informatics Visualization. 8, 2 (May 2024), 1017–1029. https://doi.org/10.62527/joiv.8.2.2299.
 [2] Gui, Y. 2024. Edge impulse-based convolutional neural network for Hand Posture Recognition. Applied and Computational Engineering. 40, (Jan. 2024), 115–119. https://doi.org/10.54254/2755-2721/40/20230636.
 [3] Saporiti, N. et al. 2025. Implementing an AI-Driven Gesture Recognition System in MES for Enhanced Efficiency and Human-Centric Operations in Industry 5.0. IFAC-PapersOnLine. 59, 10 (Jan. 2025), 1660–1665. https://doi.org/10.1016/j.ifacol.2025.09.279.
